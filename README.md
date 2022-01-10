@@ -14,7 +14,7 @@
 
 获取部署安装包：
 ```shell
-wget https://github.com/InnochainTech/fisco-bcos-browser/releases/download/v2.3.0/browser-deploy.zip
+wget https://github.com/InnochainTech/browser-deploy/releases/download/v2.3.0/browser-deploy.zip
 ```
 解压安装包：
 ```shell
